@@ -1,0 +1,25 @@
+# İsItReal? Project Rules (.antigravityrules)
+
+These are the primary principles and instructions for managing and developing the `isItReal-app`.
+
+## 1. Project Purpose
+- **Core Objective**: AI-supported factual verification (Fact-checking) of suspicious texts or news.
+- **Function**: Users should be able to analyze suspicious texts in seconds with the app returning an AI-driven trust score and detailed explanation.
+
+## 2. Security Guidelines
+- **API Keys**: The Gemini API key MUST be stored in the `.env` file as `VITE_GEMINI_API_KEY`.
+- **Strict Prohibition**: NEVER embed the API key or any other sensitive credentials directly within the codebase.
+
+## 3. Analysis Structure Requirements
+Every AI analysis result generated or processed by the application **MUST ALWAYS** include the following structure:
+- **Score**: A percentage (0-100%) indicating the reliability or truthfulness.
+- **Explanation**: A detailed explanation of why the text is or isn't reliable.
+- **Micro-Criteria (4 required fields)**:
+  1. **Kaynak (Source)**: Evaluation of the origin and references.
+  2. **Bağlam (Context)**: The situation and circumstances framing the claim.
+  3. **Dil (Language)**: Tone, emotional manipulation, clickbait nature.
+  4. **Kanıt (Evidence)**: Concrete facts or data supporting/refuting the claim.
+
+## 4. General Principles
+- **Current Data**: Compare the news to the most current internet data using Gemini 1.5 Flash.
+- **Project Structure**: Use HTML5, CSS3, JavaScript, and Vite.js.
