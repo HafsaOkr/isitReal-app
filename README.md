@@ -9,7 +9,7 @@ Sosyal medya ve dijital platformlarda yayılan dezenformasyon (bilgi kirliliği)
 TrueLens 📸, yapay zeka desteğiyle şüpheli metinleri analiz eder. Google Gemini API'yi kullanarak metnin doğruluğunu sorgular, bir güven skoru üretir ve analizin nedenlerini kullanıcıya sunar.
 
 ## Canlı Demo
-Yayın Linki: [Uygulama linkiniz buraya gelecek]
+Yayın Linki:  https://resplendent-zuccutto-9107b8.netlify.app/
 Demo Video: [Video linkiniz buraya gelecek]
 
 ## Kullanılan Teknolojiler
