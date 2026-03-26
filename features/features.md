@@ -53,7 +53,7 @@
 | Frontend | HTML5, CSS3, JavaScript (Vanilla) |
 | Build Tool | Vite 7 |
 | AI API | Google Gemini 1.5 Flash |
-| Deployment | — |
+| Deployment | Netlify |
 
 ---
 
