@@ -7,10 +7,18 @@ Sosyal medya ve dijital platformlarda yayılan dezenformasyon (bilgi kirliliği)
 
 ## Çözüm
 TrueLens 📸, yapay zeka desteğiyle şüpheli metinleri analiz eder. Google Gemini API'yi kullanarak metnin doğruluğunu sorgular, bir güven skoru üretir ve analizin nedenlerini kullanıcıya sunar.
+1. Adım Adım Mantık (Chain of Thought - CoT)
+Sistemimiz sadece bir "doğru/yanlış" cevabı üretmez. Arka planda haberi parçalara ayırır, mantıksal tutarlılığı denetler ve "Neden bu sonuca vardım?" sorusuna kanıtlar arayarak adım adım ilerler. Bu, modelin ezbere cevap vermesini engeller.
+
+2. İki Aşamalı Bağlamsal Analiz (Dual-Stage Analysis)
+Model bir yanıt ürettikten sonra, bu yanıtı "Bugünün Tarihi" (Örn: 27 Mart 2026) filtresinden geçirir. Eğer ilk yanıt modelin eski hafızasından geliyorsa, sistem bunu fark eder ve güncel bağlama göre kendini revize eder.
+
+3. Canlı Veri Güvencesi (Search Grounding)
+Yapay zekanın yanılma payına karşı son savunma hattı olarak Google Search Grounding mekanizmasını entegre ettik. Kullanıcı, sistemin analizine ek olarak tek tuşla canlı internet verilerini, resmi haber ajanslarını ve kaynak linklerini sorgulayabilir.
 
 ## Canlı Demo
 Yayın Linki:  https://resplendent-zuccutto-9107b8.netlify.app/
-Demo Video: [Video linkiniz buraya gelecek]
+Demo Video: https://www.loom.com/share/8df83453fa2b469da651c6cbf79be189
 
 ## Kullanılan Teknolojiler
 - Google Gemini 1.5 Flash API
