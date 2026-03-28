@@ -17,6 +17,9 @@ Demo Video: [Video linkiniz buraya gelecek]
 - JavaScript (Vite)
 - HTML5 & CSS3
 - Cursor AI & GitHub
+- Antigravity
+- Claude AI
+- Perplexity AI
 
 ## Nasıl Çalıştırılır?
 
