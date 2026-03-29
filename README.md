@@ -28,6 +28,8 @@ Demo Video: https://www.loom.com/share/8df83453fa2b469da651c6cbf79be189
 - Antigravity
 - Claude AI
 - Perplexity AI
+- Netlify
+- loom
 
 ## Nasıl Çalıştırılır?
 
