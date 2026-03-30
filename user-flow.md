@@ -1,4 +1,4 @@
-# Sahici mi?" Adım Adım Kullanıcı Akışı
+#TrueLens" Adım Adım Kullanıcı Akışı
 
 ### **1. Adım: Karşılama (Giriş)**
 
@@ -20,5 +20,5 @@
 ### **4. Adım: Karar ve Dönüş (Final)**
 
 - **Kullanıcı Ne Yapar?:** Sonucu okur. Bilgiye ikna olur.
-- **Kullanıcı Ne Görür?:** En altta **"Yeni Bir Haber Sorgula"** butonu.
+- **Kullanıcı Ne Görür?:** En altta **"Google'da canlı ara"** butonu.
 - **Sonuç:** Kullanıcı uygulamadan ayrılırken, o haberi paylaşmama veya grubundakileri uyarma motivasyonuyla çıkar.
