@@ -1,4 +1,4 @@
-## 🛠️ Teknoloji Yığını (Tech Stack) - Sahici mi?
+## 🛠️ Teknoloji Yığını (Tech Stack) - TrueLens
 
 Aşağıdaki tablo, projenin geliştirilmesinde kullanılan temel teknolojileri ve seçilme nedenlerini özetlemektedir:
 
