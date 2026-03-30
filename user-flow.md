@@ -1,4 +1,4 @@
-#TrueLens" Adım Adım Kullanıcı Akışı
+# TrueLens" Adım Adım Kullanıcı Akışı
 
 ### **1. Adım: Karşılama (Giriş)**
 
@@ -8,7 +8,7 @@
 ### **2. Adım: İşleme (Analiz Süreci)**
 
 - **Kullanıcı Ne Yapar?:** Butona tıklar.
-- **Kullanıcı Ne Görür?:**Analiz Ediliyor..*
+- **Kullanıcı Ne Görür?:** Analiz Ediliyor..*
 ### **3. Adım: Yüzleşme (Sonuç Ekranı)**
 
 - **Kullanıcı Ne Görür?:** Ekranın rengi analize göre değişir (veya büyük bir renkli kart gelir).
