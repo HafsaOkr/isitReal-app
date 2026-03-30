@@ -1,4 +1,4 @@
-# IsItReal Uygulama Geliştirme Görev Listesi (MVP)
+# TrueLens Uygulama Geliştirme Görev Listesi (MVP)
 
 ## 0) Ön hazırlık
 - [ ] Uygulama için teknoloji seç (ör. Next.js/React + API route veya Node/Express veya Python/FastAPI).
